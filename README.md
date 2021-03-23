@@ -18,3 +18,8 @@
 - Can be retrieved by it's value or the key
 - Syntax dict{}
 - Can contain other data types including a list
+
+## What is a set?
+- Unordered set of data
+- Sets are MUTABLE
+- Syntax {}

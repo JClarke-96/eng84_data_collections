@@ -15,3 +15,10 @@ devops_student["completed_lesson_names"].remove("data types")
 print(devops_student)
 print(type(devops_student))
 print(devops_student["name"])
+
+# Create a set
+car_parts = {"wheels", "windows", "doors"}
+car_parts.add("seats")
+car_parts.discard("doors")
+print(car_parts)
+print(type(car_parts))
