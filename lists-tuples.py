@@ -1,3 +1,4 @@
+# Lists
 # Create a shopping list example
 shopping_list = ["bread", "chocolate", "avacados", "milk"]
 
@@ -10,3 +11,8 @@ shopping_list.append("ice cream")  # Add a new item (ice cream) to list
 shopping_list.remove("chocolate")   # Remove item (chocolate) from list
 shopping_list.pop(-1)   # Remove last entry in list
 print(shopping_list)
+
+# Tuples
+essential = ("Paracetamol", "Bread", "Eggs", "Milk")
+print(essential)
+print(type(essential))
